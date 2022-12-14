@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BroadcastReceiverDemo</string>
+    <string name="is_airplane_mode_enabled_disabled">Is Airplane Mode Enabled/Disabled?</string>
+</resources>
